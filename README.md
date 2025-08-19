@@ -53,9 +53,5 @@ I am a proactive Computer Science student skilled in **Java, Python, C++, and we
 
 ---
 
-## 📈 GitHub Stats
-![Sitakanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sitakanta-dev&show_icons=true&theme=radical)
-
----
-
 **Let's connect and build something amazing together! 🚀**
+
