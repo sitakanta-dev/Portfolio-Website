@@ -1,57 +1,71 @@
-# Hi, I'm Sitakanta Nayak 👋
-**Java Developer | Full-Stack Enthusiast | Computer Science Student**
+# 🚀 Portfolio Website  
+
+A clean, responsive, and modern **portfolio website** to showcase my skills, projects, and achievements as a **Java Developer & Full-Stack Enthusiast**.  
+
+🌐 **Live Demo:** [Click here to view](https://68a6c2be942135d0ba63ce15--incredible-torte-aab717.netlify.app/)  
 
 ---
 
-## 🔹 About Me
-I am a proactive Computer Science student skilled in **Java, Python, C++, and web technologies**. I have a strong foundation in **algorithms, system optimization, and application development**. Passionate about **innovation, learning, and building efficient, scalable software systems**.
+## 👨‍💻 About Me  
 
-- 🎯 Currently learning **advanced Java, web development, and database management**
-- 💻 Interested in **full-stack development, system design, and software architecture**
-- 🌱 Exploring **AI, data structures, and real-world project solutions**
-- 📫 Reach me at: [nayaksitakanta2004@email.com](mailto:nayaksitakanta2004@email.com)
-
----
-
-## 🛠 Skills
-**Languages:** Java, Python, C, C++, HTML, CSS, JavaScript, MySQL  
-**Frameworks & Tools:** JDBC, Spring, IntelliJ IDEA, VS Code, GitHub  
-**Other Skills:** Problem Solving, Application Development, System Design
+I’m a proactive Computer Science student passionate about building **scalable, efficient software systems**.  
+- 🏆 Strong expertise in **Java**  
+- 🌱 Growing knowledge of **Python, C++, Web Development, and AI**  
+- 💡 Love solving real-world problems through clean and optimized code  
 
 ---
 
-## 📂 Projects
+## 🛠️ Tech Stack  
 
-### 1. [Portfolio Website](https://github.com/sitakanta-dev/Portfolio-Website)
-- Built a **responsive and animated personal portfolio website**.
-- Technologies: HTML, CSS, JavaScript, VS Code  
-- Features: Modern design, cross-browser compatibility, smooth animations
-
-### 2. [Bus Management System](https://github.com/sitakanta-dev/Bus-Management)
-- Developed a **Java-based Bus Management System** using JDBC and IntelliJ IDEA.
-- Features: CRUD operations for buses, passengers, and ticket bookings
-- Database: MySQL
-
-### 3. [Password Generator (Java)](https://github.com/sitakanta-dev/Password_Generator)
-- Developed a **customizable password generator** with secure randomization logic.
-- Features: User-controlled complexity levels
-- Technologies: Java, OOP concepts
+- **Languages & Tools:** 🌐 HTML, 🎨 CSS, ⚙️ JavaScript  
+- **Platforms & IDEs:** 🖥️ GitHub, 📝 VS Code  
+- **Deployment:** 🚀 Netlify  
 
 ---
 
-## 🏆 Timeline of Key Projects
-- **January 2025:** Built a modern personal portfolio website  
-- **April 2025:** Developed Java-based password generator  
-- **August 2025:** Completed Bus Management System using Java and JDBC
+## 🏗️ How I Built This  
+
+✅ Designed the structure and layout using **HTML** for content and **CSS** for styling.  
+✅ Added **JavaScript** for animations, interactivity, and responsiveness.  
+✅ Tested cross-browser compatibility and mobile responsiveness.  
+✅ Deployed seamlessly using **Netlify**, making it accessible online.  
+✅ Iterated on feedback and improved design to ensure a professional, user-friendly experience.  
 
 ---
 
-## 📫 Contact Me
-- Email: [nayaksitakanta2004@email.com](mailto:nayaksitakanta2004@email.com)  
-- Phone: +91 83288 76865  
-- Location: Bhubaneswar, India  
+## 🔮 Future Improvements  
+
+✨ Add **dark mode toggle** for better user experience.  
+✨ Integrate a **backend** (Node.js/Java + database) for contact form and project updates.  
+✨ Enhance with **React** for scalability and dynamic content.  
+✨ Include **downloadable resume** and GitHub activity section.  
 
 ---
 
-**Let's connect and build something amazing together! 🚀**
+## 📂 Other Projects  
 
+### 🔑 Password Generator (Apr 2025)  
+Created in **Java** with OOP concepts and secure randomization logic.  
+
+### 🚌 Bus Management System (Aug 2025)  
+Developed using **Java, JDBC, MySQL** with CRUD operations for buses, passengers, and tickets.  
+
+---
+
+## 🗓️ Project Timeline  
+
+| 📌 Project              | 📅 Date   |
+|-------------------------|-----------|
+| 🌟 Portfolio Website    | Jan 2025  |
+| 🔑 Password Generator   | Apr 2025  |
+| 🚌 Bus Management System| Aug 2025  |
+
+---
+
+## 📬 Connect With Me  
+
+- 📧 **Email:** nayaksitakanta2004@email.com  
+- 📱 **Phone:** +91 83288 76865  
+- 📍 **Location:** Bhubaneswar, India  
+
+💡 *Let’s connect and build something amazing together!* 🚀  
